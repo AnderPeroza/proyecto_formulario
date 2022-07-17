@@ -1,0 +1,21 @@
+body{
+    background-image: url(https://www.digitalhouse.com/blog/content/images/2022/04/blog-1.png);
+    background-attachment: fixed;
+    background-size: cover;
+    scroll-snap-type: unset;
+}
+.container_principal{
+    display: flex;
+    justify-content: center;
+    font-family: 'Roboto', sans-serif;
+
+}
+.container_formulario{
+    color: white;
+    background-color: rgba(0, 0, 0, 0.466);
+    width: 400px;
+}
+.inputs{
+    width: 95%;
+    
+}
